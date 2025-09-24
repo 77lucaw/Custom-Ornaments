@@ -1,15 +1,31 @@
 body {
+  background-color: #f0f8ff;  /* light blue */
   font-family: Arial, sans-serif;
   text-align: center;
-  background: #f0f0f0;
-  padding: 20px;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
-  color: blue;
+  color: darkblue;
+  margin-top: 50px;
 }
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+
 button {
-  padding: 10px 20px;
-  font-size: 16px;
+  background: darkblue;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
   margin-top: 20px;
+}
+
+button:hover {
+  background: royalblue;
 }
