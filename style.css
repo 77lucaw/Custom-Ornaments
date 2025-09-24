@@ -1,5 +1,5 @@
 body {
-  background-color: #ff0000;  /* light blue */
+  background-color: #ff0000;  /* bright red background */
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
@@ -7,17 +7,17 @@ body {
 }
 
 h1 {
-  color: #1a7d01;
+  color: #1a7d01;  /* dark green heading */
   margin-top: 50px;
 }
 
 p {
-  color: #333;
+  color: #333;  /* dark gray text */
   font-size: 18px;
 }
 
 button {
-  background: darkblue;
+  background: #00008b;  /* dark blue */
   color: white;
   padding: 12px 24px;
   border: none;
@@ -27,6 +27,5 @@ button {
 }
 
 button:hover {
-  background: royalblue;
+  background: #4169e1;  /* royal blue on hover */
 }
-
