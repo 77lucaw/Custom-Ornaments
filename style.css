@@ -1,5 +1,5 @@
 body {
-  background-color: #ff0000;  /* bright red background */
+  background-color: #1a7d01; 
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: #1a7d01;  /* dark green heading */
+  color: #7d0101;  /* dark green heading */
   margin-top: 50px;
 }
 
@@ -29,3 +29,4 @@ button {
 button:hover {
   background: #4169e1;  /* royal blue on hover */
 }
+
