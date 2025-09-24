@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: #7d0101;  /* dark green heading */
+  color: #b50505;  
   margin-top: 50px;
 }
 
@@ -17,7 +17,7 @@ p {
 }
 
 button {
-  background: #00008b;  /* dark blue */
+  background: #ff0000; 
   color: white;
   padding: 12px 24px;
   border: none;
@@ -27,6 +27,7 @@ button {
 }
 
 button:hover {
-  background: #4169e1;  /* royal blue on hover */
+  background: #6e0000; 
 }
+
 
