@@ -30,4 +30,15 @@ button:hover {
   background: #6e0000; 
 }
 
+a.btn {
+  display:inline-block;
+  background:#00008b;
+  color:white;
+  padding:12px 24px;
+  border-radius:8px;
+  text-decoration:none;
+  margin-top:20px;
+}
+a.btn:hover { background:#4169e1; }
+
 
